@@ -5,6 +5,7 @@ digunakan adalah data mahasiswa dan juga data matakuliah. Pengguna aplikasi adal
 pegawai layanan akademik suatu perguruan tinggi.  
 
 Spesifikasi: 
+
 a. Pengguna harus bisa melakukan penambahan, pengubahan (edit), dan penghapusan data mahasiswa.  
 b. Pengguna harus bisa menambahkan, mengubah (edit), dan menghapus suatu matakuliah yang diambil oleh mahasiswa, beserta nilainya (uts, uas, dan quiz, total dan gradenya).  
 c. Pengguna bisa menampilkan daftar mahasiswa yang mengambil suatu matakuliah yang dicari, dan juga daftar matakuliah yang diambil oleh mahasiswa yang dicari. 
